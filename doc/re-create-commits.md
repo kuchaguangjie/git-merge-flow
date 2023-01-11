@@ -1,5 +1,8 @@
 # Test steps
 
+This shows how to create the commits, and do various merges.  
+Though the commit id will be different when you re-run the steps.
+
 ## Steps:
 ```
 * feature a and b,
