@@ -34,5 +34,5 @@ Test various git merge flow.
 - [SO - merge & cherry-pick & rebase](https://stackoverflow.com/a/1241829)
 - Official doc:
     - [git merge](https://git-scm.com/docs/git-merge)
-    - [git rebase](https://git-scm.com/docs/git-rebase)
     - [git cherry-pick](https://git-scm.com/docs/git-cherry-pick)
+    - [git rebase](https://git-scm.com/docs/git-rebase)
