@@ -28,4 +28,4 @@ Test various git merge flow.
   - v0.3 (this is the merged release on master)
 
 ## How to re-create commits in the example:
-  [a relative link](doc/re-create-commits.md)
+  [re-create commits](doc/re-create-commits.md)
