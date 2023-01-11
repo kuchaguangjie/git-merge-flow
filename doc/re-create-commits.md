@@ -1,6 +1,6 @@
-# Test steps
+# Re-create commits
 
-This shows how to create the commits, and do various merges.  
+This shows how to create the commits in a new git project, and do various merges.  
 Though the commit id will be different when you re-run the steps.
 
 ## Steps:
