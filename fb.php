@@ -1,4 +1,5 @@
 <?php
     $feature = "b";
-    printf("feature %s<br>", $feature);
+    $version = 2;
+    printf("feature %s (v%d)<br>", $feature, $version);
 ?>
