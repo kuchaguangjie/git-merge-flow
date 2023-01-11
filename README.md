@@ -29,3 +29,10 @@ Test various git merge flow.
 
 ## How to re-create commits in the example:
   [re-create commits](doc/re-create-commits.md)
+
+## Reference
+- [SO - merge & cherry-pick & rebase](https://stackoverflow.com/a/1241829)
+- Official doc:
+    - [git merge](https://git-scm.com/docs/git-merge)
+    - [git rebase](https://git-scm.com/docs/git-rebase)
+    - [git cherry-pick](https://git-scm.com/docs/git-cherry-pick)
