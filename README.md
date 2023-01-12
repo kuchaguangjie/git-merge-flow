@@ -30,6 +30,9 @@ Test various git merge flow.
   - v0.2
   - v0.3 (this is the merged release on master)
 
+## How commit change
+  [graph - commit change](doc/graph-commit-change.md)
+
 ## How to re-create commits in the example:
   [re-create commits](doc/re-create-commits.md)
 
@@ -39,3 +42,4 @@ Test various git merge flow.
     - [git merge](https://git-scm.com/docs/git-merge)
     - [git cherry-pick](https://git-scm.com/docs/git-cherry-pick)
     - [git rebase](https://git-scm.com/docs/git-rebase)
+- [cherry-pick](https://www.atlassian.com/git/tutorials/cherry-pick) _(bitbucket tutorial)_

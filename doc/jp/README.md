@@ -30,6 +30,9 @@ git のさまざまなマージ プロセスをテストします。
   - v0.2
   - v0.3 (this is the merged release on master)
 
+## コミット変更グラフ
+[graph - commit change](../graph-commit-change.md)
+
 ## 例でコミットを再作成する方法:
   [re-create commits](../re-create-commits.md)
 

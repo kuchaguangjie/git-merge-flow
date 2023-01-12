@@ -30,6 +30,9 @@
   - v0.2
   - v0.3 (this is the merged release on master)
 
+## Commit 变化图
+[graph - commit change](../graph-commit-change.md)
+
 ## 如何 重新 创建 例子中的 commits:
   [re-create commits](../re-create-commits.md)
 

@@ -1,6 +1,6 @@
 # Re-create commits
 
-[readme](../README.md)
+[Readme](../README.md)
 
 This shows how to create the commits in a new git project, and do various merges.  
 Though the commit hash will be different when you re-run the steps.
