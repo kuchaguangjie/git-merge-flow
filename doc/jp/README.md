@@ -1,6 +1,6 @@
-# git-merge-flow
+# git-merge-flow (日本語)
 
-[English](../../readme.md) | [中文](../cn/readme.md)
+[English](/readme.md) | [中文](/doc/cn/readme.md)
 
 git のさまざまなマージ プロセスをテストします。
 
