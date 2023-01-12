@@ -1,6 +1,7 @@
 # git-merge-flow (日本語)
 
-[English](git-merge-flow/blob/master/readme.md) | [中文](git-merge-flow/blob/master/doc/cn/readme.md)
+[English](https://github.com/kuchaguangjie/git-merge-flow/blob/master/README.md) |
+[中文](https://github.com/kuchaguangjie/git-merge-flow/blob/master/doc/cn/README.md)
 
 git のさまざまなマージ プロセスをテストします。
 
