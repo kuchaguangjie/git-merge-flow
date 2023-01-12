@@ -1,7 +1,7 @@
 # git-merge-flow (中文)
 
 [English](https://github.com/kuchaguangjie/git-merge-flow/blob/master/README.md) |
-[日本语](https://github.com/kuchaguangjie/git-merge-flow/blob/master/doc/jp/README.md)
+[日本語](https://github.com/kuchaguangjie/git-merge-flow/blob/master/doc/jp/README.md)
 
 测试 git 的 多种 合并 流程.
 
