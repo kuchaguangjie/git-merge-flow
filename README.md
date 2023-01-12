@@ -1,6 +1,6 @@
 # git-merge-flow
 
-[中文](doc/cn/readme.md) | [日本語](doc/jp/readme.md)
+[中文](git-merge-flow/blob/master/doc/cn/readme.md) | [日本語](git-merge-flow/blob/master/doc/jp/readme.md)
 
 Test various git merge flow.
 
