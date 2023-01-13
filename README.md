@@ -34,7 +34,10 @@ Test various git merge flow.
   [graph - commit change](doc/graph-commit-change.md)
 
 ## How to re-create commits in the example:
-  [re-create commits](doc/re-create-commits.md)
+[re-create commits](doc/re-create-commits.md)
+
+## Suggestion
+[suggestion](doc/suggestion.md)
 
 ## Reference
 - [SO - merge & cherry-pick & rebase](https://stackoverflow.com/a/1241829)

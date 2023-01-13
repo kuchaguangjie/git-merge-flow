@@ -34,7 +34,10 @@
 [graph - commit change](../graph-commit-change.md)
 
 ## 如何 重新 创建 例子中的 commits:
-  [re-create commits](../re-create-commits.md)
+[re-create commits](../re-create-commits.md)
+
+## 建议
+[suggestion](../suggestion.md)
 
 ## 参考资料
 - [SO - merge & cherry-pick & rebase](https://stackoverflow.com/a/1241829)

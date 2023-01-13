@@ -34,7 +34,10 @@ git のさまざまなマージ プロセスをテストします。
 [graph - commit change](../graph-commit-change.md)
 
 ## 例でコミットを再作成する方法:
-  [re-create commits](../re-create-commits.md)
+[re-create commits](../re-create-commits.md)
+
+## 提案
+[suggestion](../suggestion.md)
 
 ## 参考文献
 - [SO - merge & cherry-pick & rebase](https://stackoverflow.com/a/1241829)
