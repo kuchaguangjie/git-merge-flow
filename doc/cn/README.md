@@ -39,12 +39,6 @@
 ## 建议
 [suggestion](../suggestion.md)
 
-- [SO - merge & cherry-pick & rebase](https://stackoverflow.com/a/1241829)
-- 官方文档:
-    - [git merge](https://git-scm.com/docs/git-merge)
-    - [git cherry-pick](https://git-scm.com/docs/git-cherry-pick)
-    - [git rebase](https://git-scm.com/docs/git-rebase)
-
 ## 参考资料
 - [SO - merge & cherry-pick & rebase](https://stackoverflow.com/a/1241829)
 - 官方文档:
