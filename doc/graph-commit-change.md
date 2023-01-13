@@ -17,7 +17,7 @@
 ```
 	  A---B---C topic
 	 /         \
-    D---E---F---G---H master (contain all changes in topic)
+    D---E---F---G---H master (contains all changes in topic)
 ```
 
 ---
@@ -33,7 +33,7 @@
 ```
 - To
 ```
-    A - B - C - D - F   master (contain changes in commit F)
+    A - B - C - D - F   master (contains changes in commit F)
          \
            E - F - G topic
 ```
@@ -52,7 +52,7 @@
 ```
 - To
 ```
-                  A'--B'--C' topic (contain changes in master)
+                  A'--B'--C' topic (contains changes in master)
                  /
     D---E---F---G master
 ```

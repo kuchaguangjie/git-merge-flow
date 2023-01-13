@@ -2,8 +2,8 @@
 
 [Readme](../README.md)
 
-## Which to use?
-- Each method has its advantage & disadvantage, choose one according to the requirement & commit status.
+## Which method to use?
+- Each method has its advantages & disadvantages, choose one according to the requirement & commit status.
   - All methods may reach the same final content, though the commit history might be different.
 - Reduce possible conflicts, could be at least as important as which method to use.
   - If there are too much conflicts, it may be messy & difficult despite which method is chosen.

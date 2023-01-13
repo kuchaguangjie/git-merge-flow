@@ -3,25 +3,25 @@
 [中文](doc/cn/README.md) |
 [日本語](doc/jp/README.md)
 
-Test various git merge flow.
+Test various git merge flows.
 
 ## merge methods
 - `git merge <commit>`
-  - If there are conflict, need to resolve by hand, or reset by hand.
+  - If there are conflicts, need to resolve by hand, or reset by hand.
 - `git cherry-pick <commit>`
-  - If there are conflict, could choose resolve by hand and continue, or auto abroad.
+  - If there are conflicts, could choose to resolve by hand and continue, or auto abort.
 - `git rebase <upstream>`
-  - If there are conflict, could choose resolve by hand and continue, or auto abroad.
-  - It avoid unneeded commits on merge, thus may get a neat commit history.
+  - If there are conflicts, could choose to resolve by hand and continue, or auto abort.
+  - It avoids unneeded commits on merge, thus may get a neat commit history.
 
 ## Example
 ### branches:
-  - `rl-v0.3_via_merge`, merge via `git merge`.
-  - `rl-v0.3_via_cherry_pick`, merge via `git cherry-pick`.
-  - `rl-v0.3_via_rebase`, merge via `git rebase`.
+  - `rl-v0.3_via_merge`, is merged via `git merge`.
+  - `rl-v0.3_via_cherry_pick`, is merged via `git cherry-pick`.
+  - `rl-v0.3_via_rebase`, is merged via `git rebase`.
 ###  master
-  - Though `master` merged with `rl-v0.3_via_merge`.
-  - But all 3 `rl-v0.3_via<xxx>` branches has the same final content, you may verify via:
+  - Though `master` is merged with `rl-v0.3_via_merge`.
+  - But all 3 `rl-v0.3_via<xxx>` branches have the same final content, you may verify via:
     - `git diff v0.3 rl-v0.3_via_merge`
     - `git diff v0.3 rl-v0.3_via_cherry_pick`
     - `git diff v0.3 rl-v0.3_via_rebase`
@@ -30,13 +30,13 @@ Test various git merge flow.
   - v0.2
   - v0.3 (this is the merged release on master)
 
-## How commit change
+## How commits change
   [graph - commit change](doc/graph-commit-change.md)
 
 ## How to re-create commits in the example:
 [re-create commits](doc/re-create-commits.md)
 
-## Suggestion
+## Suggestions
 [suggestion](doc/suggestion.md)
 
 ## References
@@ -53,4 +53,4 @@ Test various git merge flow.
   - [merge strategy](https://blog.mergify.com/whats-the-best-git-merge-strategy) (from mergify.com)
 
 ## TODOs
-- Do more compare on various merge methods.
+- Do more comparison on various merge methods.
