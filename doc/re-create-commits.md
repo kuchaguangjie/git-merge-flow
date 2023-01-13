@@ -52,13 +52,23 @@ Though the commit hash will be different when you re-run the steps.
         * after test, can delete branch rl-v0.3_via_cherry_pick,
         *
     * git rebase <upstream>
-      branch:     rl-v0.3_via_rebase
-      commit:
+        branch:     rl-v0.3_via_rebase (start from v0.2)
+        commit:   de329db27  
+
+        sub steps:
+        * if there are conflict, need resolve by hand first,
+        * git add <files..>
+        * then run:
+            git rebase --continue
+            // edit commit comment, and save,
+        * 
+        * then rl-v0.3_via_rebase branch contains the changes from master, and can be used as a release,
+        * 
     *
 
   tips:
-    * if more than 2 ways are used, their final result should be the same,
-      // this shows no difference,
+    * if more than 2 ways are used, their final results should be the same,
+      // e.g this shows no difference,
       git diff rl-v0.3_via_cherry_pick rl-v0.3_via_merge
     *
 *
