@@ -45,3 +45,19 @@ git のさまざまなマージ プロセスをテストします。
     - [git merge](https://git-scm.com/docs/git-merge)
     - [git cherry-pick](https://git-scm.com/docs/git-cherry-pick)
     - [git rebase](https://git-scm.com/docs/git-rebase)
+
+## 参考文献
+- [SO - merge & cherry-pick & rebase](https://stackoverflow.com/a/1241829)
+- 公文書:
+    - [git merge](https://git-scm.com/docs/git-merge)
+    - [git cherry-pick](https://git-scm.com/docs/git-cherry-pick)
+    - [git rebase](https://git-scm.com/docs/git-rebase)
+- チュートリアル (Bitbucket):
+    - [git merge - strategies](https://www.atlassian.com/git/tutorials/using-branches/merge-strategy)
+    - [git merge - conflict](https://www.atlassian.com/git/tutorials/using-branches/merge-conflicts)
+    - [cherry-pick - with graph](https://www.atlassian.com/git/tutorials/cherry-pick)
+- 他の:
+    - [merge strategy](https://blog.mergify.com/whats-the-best-git-merge-strategy) (from mergify.com)
+
+## TODOs
+- さまざまなマージ方法をさらに比較します。

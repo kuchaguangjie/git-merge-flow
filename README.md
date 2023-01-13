@@ -39,10 +39,18 @@ Test various git merge flow.
 ## Suggestion
 [suggestion](doc/suggestion.md)
 
-## Reference
+## References
 - [SO - merge & cherry-pick & rebase](https://stackoverflow.com/a/1241829)
 - Official doc:
     - [git merge](https://git-scm.com/docs/git-merge)
     - [git cherry-pick](https://git-scm.com/docs/git-cherry-pick)
     - [git rebase](https://git-scm.com/docs/git-rebase)
-- [cherry-pick](https://www.atlassian.com/git/tutorials/cherry-pick) _(bitbucket tutorial)_
+- Tutorial (from Bitbucket):
+  - [git merge - strategies](https://www.atlassian.com/git/tutorials/using-branches/merge-strategy)
+  - [git merge - conflict](https://www.atlassian.com/git/tutorials/using-branches/merge-conflicts)
+  - [cherry-pick - with graph](https://www.atlassian.com/git/tutorials/cherry-pick)
+- More:
+  - [merge strategy](https://blog.mergify.com/whats-the-best-git-merge-strategy) (from mergify.com)
+
+## TODOs
+- Do more compare on various merge methods.

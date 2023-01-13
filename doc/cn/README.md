@@ -39,9 +39,24 @@
 ## 建议
 [suggestion](../suggestion.md)
 
+- [SO - merge & cherry-pick & rebase](https://stackoverflow.com/a/1241829)
+- 官方文档:
+    - [git merge](https://git-scm.com/docs/git-merge)
+    - [git cherry-pick](https://git-scm.com/docs/git-cherry-pick)
+    - [git rebase](https://git-scm.com/docs/git-rebase)
+
 ## 参考资料
 - [SO - merge & cherry-pick & rebase](https://stackoverflow.com/a/1241829)
 - 官方文档:
     - [git merge](https://git-scm.com/docs/git-merge)
     - [git cherry-pick](https://git-scm.com/docs/git-cherry-pick)
     - [git rebase](https://git-scm.com/docs/git-rebase)
+- 教程 (Bitbucket):
+    - [git merge - strategies](https://www.atlassian.com/git/tutorials/using-branches/merge-strategy)
+    - [git merge - conflict](https://www.atlassian.com/git/tutorials/using-branches/merge-conflicts)
+    - [cherry-pick - with graph](https://www.atlassian.com/git/tutorials/cherry-pick)
+- 其他:
+    - [merge strategy](https://blog.mergify.com/whats-the-best-git-merge-strategy) (from mergify.com)
+
+## TODOs
+- 对不同 merge 方法 做更多 比较.
