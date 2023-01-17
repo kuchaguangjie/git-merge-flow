@@ -7,7 +7,7 @@ Test various git merge flows.
 
 ## merge methods
 - `git merge <commit>`
-  - If there are conflicts, need to resolve by hand, or reset by hand.
+  - If there are conflicts, need to resolve by hand, or auto abort (e.g `git merge --abort`), or reset by hand.
 - `git cherry-pick <commit>`
   - If there are conflicts, could choose to resolve by hand and continue, or auto abort.
 - `git rebase <upstream>`
